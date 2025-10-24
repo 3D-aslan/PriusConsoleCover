@@ -19,6 +19,7 @@ Printed the model using **Bambu Lab P1S** with ASA material for heat and impact 
 ![middle console printing](https://github.com/user-attachments/assets/729b9a4d-08c7-4d5f-bb43-1f1c73efe8b5)
 
 Tested multiple iterations for alignment, strength, and finish before finalizing the design.
-![il_1140xN 7031223874_m3rt](https://github.com/user-attachments/assets/0a758d01-bdc7-48d5-b28e-81b2db7d92e2)
+<img src="https://github.com/user-attachments/assets/0a758d01-bdc7-48d5-b28e-81b2db7d92e2" alt="il_1140xN 7031223874_m3rt" width="400" height="400">
+
 
 Result: Perfect fit after few iterations.
