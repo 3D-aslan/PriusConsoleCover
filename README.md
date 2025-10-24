@@ -9,6 +9,7 @@ Tools Used: Einstar Vega (3D scanning), 3Ds Max, Bambu Lab P1S (printing)
 Material: ASA
 
 Used the **Einstar Vega** to scan the button area, cleaned up the mesh, and aligned it for accurate dimensions.
+
 ![middle console scanned](https://github.com/user-attachments/assets/145b3c90-ed50-4d77-b568-15cca79b664e)
 
 Converted the scan to a usable model using **3ds Max**, ensuring precise button clearances.
